@@ -1,4 +1,7 @@
 # ExampleMiniProfilerDapper
 
-## After run application
-url in browser {host}/profiler/results
+## After run application, insert url in browser
+
+```
+{host}/profiler/results
+```
